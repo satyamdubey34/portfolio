@@ -18,13 +18,14 @@ body{
   justify-content: space-between;
   width: 345px;
   height: 0px;
-  margin-top: 50vh;
+  margin-top: 10vh;
 margin-left: 97vh;
 }
 .intro{
-  margin: 5vh;
-  padding: 5vh;
-  font-size: 20px;
+  padding: 8vh;
+  font-size: 30px;
+  font-style: oblique;
+  
 }
 .home-content .btn-box::before{
   content: '';
@@ -83,8 +84,12 @@ margin-left: 90vh;
 margin-top: 10vh;
 align-content: center;
 align-items: center;
-
+margin-bottom: 2vh;
  }
+
+
+
+
 
 
 
